@@ -1,10 +1,10 @@
 ### Hello, I am Angel Berlanga 👋
-💻 I am **frontend developer**, working mainly with **JavaScript** and **React.js**.
+💻 I'm **frontend developer**, working mainly with **JavaScript** and **React.js**.
 I also do some development with **Node.js**, **C++** and **Python**.
 
-:mexico: I am from Mexico, but I try to write in English on social networks to practice my writing in English.
+:mexico: I am from Mexico, but I try to write in English on social networks in order to practice my English writing.
 
-👨‍💻 Frontend Developer and cofounder at [@padevner](https://github.com/padevner) | Freelance
+👨‍💻 Fullstack Developer | Student
 
 ---
 

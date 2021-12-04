@@ -9,7 +9,7 @@ I also do some development with **Node.js**, **C++** and **Python**.
 ---
 
 ### You can see me on:  
-[Twitter](https://twitter.com/AngelBerlangaB) | [LinkedIn](https://linkedin.com/in/angel-berlanga) | [Instagram](https://instagram.com/angelberlangab/)
+[Twitch](https://twitch.tv/eddyber16) | [Twitter](https://twitter.com/AngelBerlangaB) | [LinkedIn](https://linkedin.com/in/angel-berlanga) | [Instagram](https://instagram.com/angelberlangab/)
 
 <!--
 **EddyBer16/EddyBer16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
